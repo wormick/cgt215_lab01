@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "I think anime is mid\n";
+    std::cout << "I think ice cream is not that great\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
